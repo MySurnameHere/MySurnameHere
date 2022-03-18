@@ -1,4 +1,5 @@
-a = "computer"
+z = ["computer", 'update', 'string', 'range', 'print']
+a = random.z()
 game_over = 0
 k = 0
 h = 0
