@@ -1,5 +1,5 @@
 # Поле чудес
-Всем привет! Я создал на Питоне игру "Поле чудес". Это игра, где вам понадобится ваша сообразительность и хорошее знание различных слов.
+Всем привет! :wave: Я создал на Питоне игру "Поле чудес". Это игра, где вам понадобится ваша сообразительность и хорошее знание различных слов.
 ## Правила игры
 Загадано случайное слово и вам нужно отгадать его, постепенно открывая буквы или сразу назвав слово. Перед тем как ввести слово проверьте, что ваше слово равно по длинне загадонному!
 ## Ход игры
@@ -12,11 +12,11 @@
  - !help - Напомнит вам какие существуют команды.
  - !used_letters - Покажет, какие буквы вы уже использовали.
  - !not_used_letters - Покажет какие буквы вы еще не использовали.
-# **Приятной игры!**
+# **Приятной игры!** :relaxed:
 
 
 # Pole Chudes
-Hello everyone! I created the game "Pole Chudes" in Python. This is a game where you will need your wits and good knowledge of various words.
+Hello everyone! :wave: I created the game "Pole Chudes" in Python. This is a game where you will need your wits and good knowledge of various words.
 ## Rules of the game
 A random word has been guessed and you need to guess it by gradually opening the letters or immediately naming the word. 
 Before entering a word, check that your word is equal in length to the guessed one!
@@ -30,4 +30,4 @@ Also, you can use commands that can help you:
  - !help - Remind you what commands exist.
  - !used_letters - Shows which letters you have already used.
  - !not_used_letters - Show which letters you haven't used yet.
-# **Have a nice game!**
+# **Have a nice game!** :relaxed:
