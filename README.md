@@ -14,7 +14,7 @@
  - !not_used_letters - Покажет какие буквы вы еще не использовали.
  
  
-![alt text](Firefox_Screenshot_2022-03-20T16-15-34.001Z.png "Описание будет тут")
+![alt text](Firefox_Screenshot_2022-03-20T16-15-34.001Z.png "Пример из игры")
 # **Приятной игры!** :relaxed:
 
 
