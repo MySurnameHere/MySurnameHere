@@ -12,7 +12,7 @@
   !help - Напомнит вам какие существуют команды.
   !used_letters - Покажет, какие буквы вы уже использовали.
   !not_used_letters - Покажет какие буквы вы еще не использовали.
-#**Приятной игры!**
+# **Приятной игры!**
 
 Hello everyone!
 I created the game "Pole Chydes" in Python.
